@@ -17,4 +17,4 @@ def main():
         prac3.calculate_average()
 
 if __name__ == "__main__":
-    main()
+    main()123
